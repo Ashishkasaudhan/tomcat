@@ -13,4 +13,4 @@
         password: "us3rp@ssw0rd"
         roles: "tomcat"        
   roles:
-    - role: tomcat-ansible-role
+    - role: roles/tomcat-ansible-role
